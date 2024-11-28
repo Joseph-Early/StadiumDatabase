@@ -1,7 +1,3 @@
-/*
- *   Copyright (c) 2024 
- *   All rights reserved.
- */
 using Microsoft.EntityFrameworkCore;
 
 namespace StadiumDatabase
